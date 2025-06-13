@@ -56,7 +56,7 @@ A real-time trading signal discovery platform that uses advanced NLP and machine
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/signal-hunters.git
+git clone https://github.com/bgsbgsbgs42/signal-hunters.git
 cd signal-hunters
 
 # Create virtual environment
